@@ -1,13 +1,13 @@
 {
   "name": "nome_do_projeto",
   "version": "1.0.0",
-  "description": "Integração Maketplace/ERP nome_do_projeto",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon"
   },
-  "author": "Webstore Lojas Virtuais",
+  "author": "",
   "license": "ISC",
   "homepage": "",
   "dependencies": {
